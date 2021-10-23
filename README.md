@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning C
 - 👯 I’m looking to work on ReactOS
 - 💬 Ask me about nothing, please!
-- 📫 How to reach me: https://leandrofriedrich.de/kontakt 
+- 📫 How to reach me: https://leandrofriedrich.de/kontakt (not yet)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sps
